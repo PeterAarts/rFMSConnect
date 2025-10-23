@@ -24,10 +24,10 @@ error_reporting(0);
 // Set config
 $GLOBALS['config'] = array(
 'mysql'      => array(
-'host'         => 'localhost',
-'username'     => 'root',
-'password'     => 'DAFConn3ct2018!',
-'db'           => 'rfms_reading',
+'host'         => ':::1',
+'username'     => 'xxx',
+'password'     => 'xxx',
+'db'           => 'xxx',
 ),
 'remember'        => array(
   'cookie_name'   => 'pmqesoxiw318334575498',
